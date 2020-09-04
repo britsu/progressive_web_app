@@ -4,9 +4,9 @@ Aluno adicione seu nome de usuario no github, seu nome completo e o link de sua 
 
 <TABLE BORDER=1>
 <TR>
-<TD>Nome completo </TD> 
-<TD>Usuario do github </TD>
-<TD>Link</TD>
+<TD>Luis Henrick Brito Pêgo </TD> 
+<TD>@britsu </TD>
+<TD>https://github.com/britsu</TD>
 </TR> 
 <TR> 
 <TD> Iury Gomes de Oliveira </TD>
